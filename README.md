@@ -1,2 +1,2 @@
-# Oscillating-Pendulum
-All the files to my oscillating pendulum project
+# p5.play-boilerplate
+Boiler plate for p5.play
